@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1336774254
-ModificationTime: 1336799823
+ModificationTime: 1336801209
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -37,6 +37,7 @@ HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
 Lookup: 260 0 0 "Above-base Marks"  {"Above-base Marks-1"  } ['abvm' ('deva' <'dflt' > ) ]
+Lookup: 260 0 0 "Below-base Marks"  {"Below-base Marks-1"  } ['blwm' ('deva' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 Encoding: Original
@@ -62,7 +63,7 @@ Grid
  2000 600 l 0
   Named: "topbase" 
 EndSplineSet
-AnchorClass2: "ekaar"  "Above-base Marks-1" 
+AnchorClass2: "ukaar"  "Below-base Marks-1" "ekaar"  "Above-base Marks-1" 
 BeginChars: 69 69
 
 StartChar: akAra
@@ -216,6 +217,7 @@ Encoding: 10 2325 10
 Width: 853
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 426 0 basechar 0
 AnchorPoint: "ekaar" 545 480 basechar 0
 LayerCount: 2
 Fore
@@ -234,6 +236,7 @@ Encoding: 11 2326 11
 Width: 712
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 356 0 basechar 0
 AnchorPoint: "ekaar" 530 480 basechar 0
 LayerCount: 2
 Fore
@@ -255,6 +258,7 @@ Encoding: 12 2327 12
 Width: 789
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 394 0 basechar 0
 AnchorPoint: "ekaar" 550 480 basechar 0
 LayerCount: 2
 Fore
@@ -276,11 +280,12 @@ Encoding: 13 2427 13
 Width: 679
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 400 0 basechar 0
 AnchorPoint: "ekaar" 560 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-559.646 480 m 29
+559.646 480 m 25
  559.646 0 l 25
 322.146 480 m 17
  322.146 288 321.646 224 321.646 110.4 c 0
@@ -295,6 +300,7 @@ Encoding: 14 2328 14
 Width: 770
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 385 0 basechar 0
 AnchorPoint: "ekaar" 560 540 basechar 0
 LayerCount: 2
 Fore
@@ -314,6 +320,7 @@ Encoding: 15 2329 15
 Width: 798
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 399 0 basechar 0
 AnchorPoint: "ekaar" 480 480 basechar 0
 LayerCount: 2
 Fore
@@ -333,6 +340,7 @@ Encoding: 16 2330 16
 Width: 776
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 388 0 basechar 0
 AnchorPoint: "ekaar" 656 540 basechar 0
 LayerCount: 2
 Fore
@@ -350,6 +358,7 @@ Encoding: 17 2331 17
 Width: 893
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 446 0 basechar 0
 AnchorPoint: "ekaar" 473 540 basechar 0
 LayerCount: 2
 Fore
@@ -371,6 +380,7 @@ Encoding: 18 2332 18
 Width: 898
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 449 0 basechar 0
 AnchorPoint: "ekaar" 720 480 basechar 0
 LayerCount: 2
 Fore
@@ -391,6 +401,7 @@ Encoding: 19 2428 19
 Width: 1054
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 527 0 basechar 0
 AnchorPoint: "ekaar" 934 480 basechar 0
 LayerCount: 2
 Fore
@@ -410,6 +421,7 @@ Encoding: 20 2333 20
 Width: 910
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 455 0 basechar 0
 AnchorPoint: "ekaar" 740 480 basechar 0
 LayerCount: 2
 Fore
@@ -431,6 +443,7 @@ Encoding: 21 2334 21
 Width: 825
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 412 0 basechar 0
 AnchorPoint: "ekaar" 510 540 basechar 0
 LayerCount: 2
 Fore
@@ -452,6 +465,7 @@ Encoding: 22 2335 22
 Width: 810
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 405 0 basechar 0
 AnchorPoint: "ekaar" 636 480 basechar 0
 LayerCount: 2
 Fore
@@ -468,6 +482,7 @@ Encoding: 23 2336 23
 Width: 801
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 400 0 basechar 0
 AnchorPoint: "ekaar" 610 540 basechar 0
 LayerCount: 2
 Fore
@@ -485,6 +500,7 @@ Encoding: 24 2337 24
 Width: 843
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 421 0 basechar 0
 AnchorPoint: "ekaar" 640 540 basechar 0
 LayerCount: 2
 Fore
@@ -505,6 +521,7 @@ Encoding: 25 2430 25
 Width: 755
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 377 0 basechar 0
 AnchorPoint: "ekaar" 636 480 basechar 0
 LayerCount: 2
 Fore
@@ -522,6 +539,7 @@ Encoding: 26 2396 26
 Width: 628
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 314 0 basechar 0
 AnchorPoint: "ekaar" 460 540 basechar 0
 LayerCount: 2
 Fore
@@ -541,6 +559,7 @@ Encoding: 27 2338 27
 Width: 864
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 432 0 basechar 0
 AnchorPoint: "ekaar" 455 480 basechar 0
 LayerCount: 2
 Fore
@@ -561,6 +580,7 @@ Encoding: 28 2339 28
 Width: 786
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 393 0 basechar 0
 AnchorPoint: "ekaar" 666 480 basechar 0
 LayerCount: 2
 Fore
@@ -580,6 +600,7 @@ Encoding: 29 2340 29
 Width: 697
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 348 0 basechar 0
 AnchorPoint: "ekaar" 540 480 basechar 0
 LayerCount: 2
 Fore
@@ -597,6 +618,7 @@ Encoding: 30 2341 30
 Width: 834
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 417 0 basechar 0
 AnchorPoint: "ekaar" 638 480 basechar 0
 LayerCount: 2
 Fore
@@ -615,6 +637,7 @@ Encoding: 31 2342 31
 Width: 908
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 454 0 basechar 0
 AnchorPoint: "ekaar" 635 480 basechar 0
 LayerCount: 2
 Fore
@@ -634,6 +657,7 @@ Encoding: 32 2343 32
 Width: 740
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 370 0 basechar 0
 AnchorPoint: "ekaar" 550 480 basechar 0
 LayerCount: 2
 Fore
@@ -652,6 +676,7 @@ Encoding: 33 2344 33
 Width: 1053
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 526 0 basechar 0
 AnchorPoint: "ekaar" 910 480 basechar 0
 LayerCount: 2
 Fore
@@ -667,6 +692,7 @@ Encoding: 34 2346 34
 Width: 814
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 407 0 basechar 0
 AnchorPoint: "ekaar" 593 480 basechar 0
 LayerCount: 2
 Fore
@@ -683,6 +709,7 @@ Encoding: 35 2347 35
 Width: 757
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 378 0 basechar 0
 AnchorPoint: "ekaar" 580 480 basechar 0
 LayerCount: 2
 Fore
@@ -701,6 +728,7 @@ Encoding: 36 2348 36
 Width: 1047
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 523 0 basechar 0
 AnchorPoint: "ekaar" 927 540 basechar 0
 LayerCount: 2
 Fore
@@ -718,6 +746,7 @@ Encoding: 37 2431 37
 Width: 739
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 369 0 basechar 0
 AnchorPoint: "ekaar" 600 540 basechar 0
 LayerCount: 2
 Fore
@@ -739,6 +768,7 @@ Encoding: 38 2349 38
 Width: 1140
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 570 0 basechar 0
 AnchorPoint: "ekaar" 1020 540 basechar 0
 LayerCount: 2
 Fore
@@ -757,6 +787,7 @@ Encoding: 39 2350 39
 Width: 696
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 348 0 basechar 0
 AnchorPoint: "ekaar" 540 480 basechar 0
 LayerCount: 2
 Fore
@@ -774,6 +805,7 @@ Encoding: 40 2351 40
 Width: 935
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 467 0 basechar 0
 AnchorPoint: "ekaar" 650 480 basechar 0
 LayerCount: 2
 Fore
@@ -797,6 +829,7 @@ Encoding: 41 2352 41
 Width: 671
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 335 0 basechar 0
 AnchorPoint: "ekaar" 490 480 basechar 0
 LayerCount: 2
 Fore
@@ -814,6 +847,7 @@ Encoding: 42 2354 42
 Width: 766
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 383 0 basechar 0
 AnchorPoint: "ekaar" 490 480 basechar 0
 LayerCount: 2
 Fore
@@ -831,6 +865,7 @@ Encoding: 43 2357 43
 Width: 660
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 330 0 basechar 0
 AnchorPoint: "ekaar" 490 480 basechar 0
 LayerCount: 2
 Fore
@@ -848,6 +883,7 @@ Encoding: 44 2358 44
 Width: 831
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 415 0 basechar 0
 AnchorPoint: "ekaar" 650 480 basechar 0
 LayerCount: 2
 Fore
@@ -869,6 +905,7 @@ Encoding: 45 2360 45
 Width: 831
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 415 0 basechar 0
 AnchorPoint: "ekaar" 650 480 basechar 0
 LayerCount: 2
 Fore
@@ -889,6 +926,7 @@ Encoding: 46 2361 46
 Width: 719
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" 359 0 basechar 0
 AnchorPoint: "ekaar" 560 480 basechar 0
 LayerCount: 2
 Fore
@@ -958,6 +996,7 @@ Encoding: 51 2369 51
 Width: 0
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" -250 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -972,6 +1011,7 @@ Encoding: 52 2370 52
 Width: 0
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" -250 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
