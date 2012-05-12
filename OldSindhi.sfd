@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1336774254
-ModificationTime: 1336798564
+ModificationTime: 1336799823
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -213,19 +213,19 @@ EndChar
 
 StartChar: ka
 Encoding: 10 2325 10
-Width: 893
+Width: 853
 VWidth: 0
 Flags: W
-AnchorPoint: "ekaar" 585 480 basechar 0
+AnchorPoint: "ekaar" 545 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-120 324 m 17
- 130.5 379.2 198 480 258 480 c 0
- 355.5 480 348 180 349.5 0 c 1
- 360 230.4 429 480 585 480 c 4
- 735 480 577.5 0 705 0 c 0
- 754.362 0 769.5 19.2002 813 52.7998 c 9
+80 324 m 17
+ 90.5 379.2 158 480 218 480 c 0
+ 315.5 480 308 180 309.5 0 c 1
+ 320 230.4 389 480 545 480 c 4
+ 695 480 537.5 0 665 0 c 0
+ 714.362 0 729.5 19.2002 773 52.7998 c 9
 EndSplineSet
 EndChar
 
@@ -273,20 +273,20 @@ EndChar
 
 StartChar: gqa
 Encoding: 13 2427 13
-Width: 719
+Width: 679
 VWidth: 0
 Flags: W
-AnchorPoint: "ekaar" 600 480 basechar 0
+AnchorPoint: "ekaar" 560 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-599.646 480 m 29
- 599.646 0 l 25
-362.146 480 m 17
- 362.146 288 361.646 224 361.646 110.4 c 0
- 361.646 50.502 297.646 0 223.646 0 c 0
- 127.646 0 93.5488 129.347 141.646 203.2 c 24
- 178.88 260.371 303.646 260.8 347.646 190.4 c 9
+559.646 480 m 29
+ 559.646 0 l 25
+322.146 480 m 17
+ 322.146 288 321.646 224 321.646 110.4 c 0
+ 321.646 50.502 257.646 0 183.646 0 c 0
+ 87.6465 0 53.5488 129.347 101.646 203.2 c 24
+ 138.88 260.371 263.646 260.8 307.646 190.4 c 9
 EndSplineSet
 EndChar
 
@@ -347,22 +347,22 @@ EndChar
 
 StartChar: cha
 Encoding: 17 2331 17
-Width: 933
+Width: 893
 VWidth: 0
 Flags: W
-AnchorPoint: "ekaar" 513 540 basechar 0
+AnchorPoint: "ekaar" 473 540 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-120 540 m 25
- 513 540 l 21
- 243 540 201 529.2 201 461.7 c 0
- 201 299.7 378 299.7 522 299.7 c 1
- 339 299.7 243 270 243 178.2 c 0
- 243 64.7998 381 0 558 0 c 0
- 771 0 813 59.4004 813 153.9 c 0
- 813 294.3 624 272.7 594 205.2 c 0
- 562.808 135.018 606 54 663 21.5996 c 0
+80 540 m 25
+ 473 540 l 21
+ 203 540 161 529.2 161 461.7 c 0
+ 161 299.7 338 299.7 482 299.7 c 1
+ 299 299.7 203 270 203 178.2 c 0
+ 203 64.7998 341 0 518 0 c 0
+ 731 0 773 59.4004 773 153.9 c 0
+ 773 294.3 584 272.7 554 205.2 c 0
+ 522.808 135.018 566 54 623 21.5996 c 0
 EndSplineSet
 EndChar
 
@@ -449,17 +449,17 @@ EndChar
 
 StartChar: Ta
 Encoding: 22 2335 22
-Width: 850
+Width: 810
 VWidth: 0
 Flags: W
-AnchorPoint: "ekaar" 676 480 basechar 0
+AnchorPoint: "ekaar" 636 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-120 480 m 25
- 676.2 480 l 21
- 365.7 480 185.416 381.606 187.5 211.2 c 0
- 190.2 -9.59961 390 0 730.2 0 c 9
+80 480 m 25
+ 636.2 480 l 21
+ 325.7 480 145.416 381.606 147.5 211.2 c 0
+ 150.2 -9.59961 350 0 690.2 0 c 9
 EndSplineSet
 EndChar
 
@@ -538,21 +538,21 @@ EndChar
 
 StartChar: Dha
 Encoding: 27 2338 27
-Width: 904
+Width: 864
 VWidth: 0
 Flags: W
-AnchorPoint: "ekaar" 495 480 basechar 0
+AnchorPoint: "ekaar" 455 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-120 480 m 25
- 495.3 480 l 21
- 354.899 480 189.456 463.177 187.5 292.77 c 0
- 184.8 57.5693 325.2 0 473.7 0 c 0
- 608.494 0 710.456 44.1211 776.1 148.77 c 24
- 812.368 206.588 718.125 266.997 643.8 271.17 c 24
- 576.173 274.967 517.415 223.37 519.6 163.17 c 24
- 521.929 99 595.2 62.3691 651.899 47.9697 c 9
+80 480 m 25
+ 455.3 480 l 21
+ 314.899 480 149.456 463.177 147.5 292.77 c 0
+ 144.8 57.5693 285.2 0 433.7 0 c 0
+ 568.494 0 670.456 44.1211 736.1 148.77 c 24
+ 772.368 206.588 678.125 266.997 603.8 271.17 c 24
+ 536.173 274.967 477.415 223.37 479.6 163.17 c 24
+ 481.929 99 555.2 62.3691 611.899 47.9697 c 9
 EndSplineSet
 EndChar
 
@@ -631,19 +631,19 @@ EndChar
 
 StartChar: dha
 Encoding: 32 2343 32
-Width: 820
+Width: 740
 VWidth: 0
 Flags: W
-AnchorPoint: "ekaar" 590 480 basechar 0
+AnchorPoint: "ekaar" 550 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-120 364.8 m 17
- 184.8 429.6 297.6 480 410.4 480 c 0
- 554.572 480 615.985 415.054 614.4 312 c 0
- 612 156 384 0 300 0 c 0
- 151.2 0 180 218.4 271.2 218.4 c 0
- 376.8 218.4 460.8 0 700.8 0 c 9
+80 364.8 m 17
+ 144.8 429.6 257.6 480 370.4 480 c 0
+ 514.572 480 575.985 415.054 574.4 312 c 0
+ 572 156 344 0 260 0 c 0
+ 111.2 0 140 218.4 231.2 218.4 c 0
+ 336.8 218.4 420.8 0 660.8 0 c 9
 EndSplineSet
 EndChar
 
@@ -845,7 +845,7 @@ EndChar
 
 StartChar: za
 Encoding: 44 2358 44
-Width: 871
+Width: 831
 VWidth: 0
 Flags: W
 AnchorPoint: "ekaar" 650 480 basechar 0
@@ -866,7 +866,7 @@ EndChar
 
 StartChar: sa
 Encoding: 45 2360 45
-Width: 871
+Width: 831
 VWidth: 0
 Flags: W
 AnchorPoint: "ekaar" 650 480 basechar 0
