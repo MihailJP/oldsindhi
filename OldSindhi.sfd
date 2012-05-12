@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1336774254
-ModificationTime: 1336801325
+ModificationTime: 1336801441
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -40,7 +40,7 @@ Lookup: 260 0 0 "Above-base Marks"  {"Above-base Marks-1"  } ['abvm' ('deva' <'d
 Lookup: 260 0 0 "Below-base Marks"  {"Below-base Marks-1"  } ['blwm' ('deva' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-Encoding: Original
+Encoding: Custom
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
@@ -64,7 +64,7 @@ Grid
   Named: "topbase" 
 EndSplineSet
 AnchorClass2: "ukaar"  "Below-base Marks-1" "ekaar"  "Above-base Marks-1" 
-BeginChars: 69 69
+BeginChars: 70 70
 
 StartChar: akAra
 Encoding: 0 2309 0
@@ -1182,6 +1182,14 @@ EndChar
 StartChar: nava
 Encoding: 68 2415 68
 Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: space
+Encoding: 69 32 69
+Width: 400
 VWidth: 0
 Flags: W
 LayerCount: 2
