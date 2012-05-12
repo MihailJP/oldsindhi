@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1336774254
-ModificationTime: 1336803106
+ModificationTime: 1336806757
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -36,17 +36,18 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
-Lookup: 260 0 0 "Above-base Marks"  {"Above-base Marks-1"  } ['abvm' ('deva' <'dflt' > ) ]
-Lookup: 260 0 0 "Below-base Marks"  {"Below-base Marks-1"  } ['blwm' ('deva' <'dflt' > ) ]
+Lookup: 260 0 0 "Above-base Marks"  {"Above-base Marks-1"  } []
+Lookup: 260 0 0 "Below-base Marks"  {"Below-base Marks-1"  } []
 MarkAttachClasses: 1
 DEI: 91125
+LangName: 1033 
 Encoding: Custom
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 16 4
+WinInfo: 16 16 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -63,43 +64,46 @@ Grid
  2000 600 l 0
   Named: "topbase" 
 EndSplineSet
-AnchorClass2: "ukaar"  "Below-base Marks-1" "ekaar"  "Above-base Marks-1" 
+AnchorClass2: "anusvara"  "Above-base Marks-1" "ukaar"  "Below-base Marks-1" "ekaar"  "Above-base Marks-1" 
 BeginChars: 72 72
 
 StartChar: akAra
-Encoding: 0 2309 0
+Encoding: 0 70320 0
 Width: 1008
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 750 480 basechar 0
+AnchorPoint: "anusvara" 504 720 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 120 480 m 17
  216 399 232 115.2 229 0 c 1
- 264 195 345 480 450 480 c 4
+ 264 195 345 480 450 480 c 0
  510 480 504 180 504 0 c 1
- 527 156 609 480 732 480 c 0
+ 527 156 609 480 732 480 c 4
  834 480 712 0 832 0 c 0
  888.706 0 901 26.4004 928 55.2002 c 9
 EndSplineSet
 EndChar
 
 StartChar: AkAra
-Encoding: 1 2310 1
+Encoding: 1 70321 1
 Width: 1208
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 48 2366 N 1 0 0 1 1008 0 2
-Refer: 0 2309 N 1 0 0 1 0 0 2
+Refer: 48 70368 N 1 0 0 1 1008 0 2
+Refer: 0 70320 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: it
-Encoding: 2 2311 2
+Encoding: 2 70322 2
 Width: 755
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 377 720 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -111,10 +115,11 @@ EndSplineSet
 EndChar
 
 StartChar: It
-Encoding: 3 2312 3
+Encoding: 3 70323 3
 Width: 1096
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 548 720 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -129,10 +134,11 @@ EndSplineSet
 EndChar
 
 StartChar: ut
-Encoding: 4 2313 4
+Encoding: 4 70324 4
 Width: 748
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 374 720 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -148,10 +154,11 @@ EndSplineSet
 EndChar
 
 StartChar: Ut
-Encoding: 5 2314 5
+Encoding: 5 70325 5
 Width: 748
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 374 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -169,54 +176,55 @@ EndSplineSet
 EndChar
 
 StartChar: et
-Encoding: 6 2319 6
+Encoding: 6 70326 6
 Width: 1008
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 53 2375 S 1 0 0 1 850 0 2
-Refer: 0 2309 N 1 0 0 1 0 0 2
+Refer: 53 70373 S 1 0 0 1 850 0 2
+Refer: 0 70320 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ait
-Encoding: 7 2320 7
+Encoding: 7 70327 7
 Width: 1008
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 54 2376 N 1 0 0 1 850 0 2
-Refer: 0 2309 N 1 0 0 1 0 0 2
+Refer: 54 70374 N 1 0 0 1 850 0 2
+Refer: 0 70320 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ot
-Encoding: 8 2323 8
+Encoding: 8 70328 8
 Width: 1008
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 55 2379 N 1 0 0 1 850 0 2
-Refer: 0 2309 N 1 0 0 1 0 0 2
+Refer: 55 70375 N 1 0 0 1 850 0 2
+Refer: 0 70320 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: aut
-Encoding: 9 2324 9
+Encoding: 9 70329 9
 Width: 1008
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 56 2380 N 1 0 0 1 850 0 2
-Refer: 0 2309 N 1 0 0 1 0 0 2
+Refer: 56 70376 N 1 0 0 1 850 0 2
+Refer: 0 70320 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ka
-Encoding: 10 2325 10
+Encoding: 10 70330 10
 Width: 853
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 426 720 basechar 0
 AnchorPoint: "ukaar" 426 0 basechar 0
 AnchorPoint: "ekaar" 545 480 basechar 0
 LayerCount: 2
@@ -232,10 +240,11 @@ EndSplineSet
 EndChar
 
 StartChar: kha
-Encoding: 11 2326 11
+Encoding: 11 70331 11
 Width: 712
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 356 720 basechar 0
 AnchorPoint: "ukaar" 356 0 basechar 0
 AnchorPoint: "ekaar" 530 480 basechar 0
 LayerCount: 2
@@ -254,10 +263,11 @@ EndSplineSet
 EndChar
 
 StartChar: ga
-Encoding: 12 2327 12
+Encoding: 12 70332 12
 Width: 789
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 394 720 basechar 0
 AnchorPoint: "ukaar" 394 0 basechar 0
 AnchorPoint: "ekaar" 550 480 basechar 0
 LayerCount: 2
@@ -276,10 +286,11 @@ EndSplineSet
 EndChar
 
 StartChar: gqa
-Encoding: 13 2427 13
+Encoding: 13 70333 13
 Width: 679
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 339 720 basechar 0
 AnchorPoint: "ukaar" 400 0 basechar 0
 AnchorPoint: "ekaar" 560 480 basechar 0
 LayerCount: 2
@@ -296,10 +307,11 @@ EndSplineSet
 EndChar
 
 StartChar: gha
-Encoding: 14 2328 14
+Encoding: 14 70334 14
 Width: 770
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 385 720 basechar 0
 AnchorPoint: "ukaar" 385 0 basechar 0
 AnchorPoint: "ekaar" 560 540 basechar 0
 LayerCount: 2
@@ -316,10 +328,11 @@ EndSplineSet
 EndChar
 
 StartChar: Ga
-Encoding: 15 2329 15
+Encoding: 15 70335 15
 Width: 798
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 399 720 basechar 0
 AnchorPoint: "ukaar" 399 0 basechar 0
 AnchorPoint: "ekaar" 480 480 basechar 0
 LayerCount: 2
@@ -336,10 +349,11 @@ EndSplineSet
 EndChar
 
 StartChar: ca
-Encoding: 16 2330 16
+Encoding: 16 70336 16
 Width: 776
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 388 720 basechar 0
 AnchorPoint: "ukaar" 388 0 basechar 0
 AnchorPoint: "ekaar" 656 540 basechar 0
 LayerCount: 2
@@ -354,10 +368,11 @@ EndSplineSet
 EndChar
 
 StartChar: cha
-Encoding: 17 2331 17
+Encoding: 17 70337 17
 Width: 893
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 446 720 basechar 0
 AnchorPoint: "ukaar" 446 0 basechar 0
 AnchorPoint: "ekaar" 473 540 basechar 0
 LayerCount: 2
@@ -376,10 +391,11 @@ EndSplineSet
 EndChar
 
 StartChar: ja
-Encoding: 18 2332 18
+Encoding: 18 70338 18
 Width: 898
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 449 720 basechar 0
 AnchorPoint: "ukaar" 449 0 basechar 0
 AnchorPoint: "ekaar" 720 480 basechar 0
 LayerCount: 2
@@ -397,10 +413,11 @@ EndSplineSet
 EndChar
 
 StartChar: jqa
-Encoding: 19 2428 19
+Encoding: 19 70339 19
 Width: 1054
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 527 720 basechar 0
 AnchorPoint: "ukaar" 527 0 basechar 0
 AnchorPoint: "ekaar" 934 480 basechar 0
 LayerCount: 2
@@ -417,10 +434,11 @@ EndSplineSet
 EndChar
 
 StartChar: jha
-Encoding: 20 2333 20
+Encoding: 20 70340 20
 Width: 910
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 455 720 basechar 0
 AnchorPoint: "ukaar" 455 0 basechar 0
 AnchorPoint: "ekaar" 740 480 basechar 0
 LayerCount: 2
@@ -439,17 +457,18 @@ EndSplineSet
 EndChar
 
 StartChar: Ja
-Encoding: 21 2334 21
+Encoding: 21 70341 21
 Width: 825
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 412 720 basechar 0
 AnchorPoint: "ukaar" 412 0 basechar 0
 AnchorPoint: "ekaar" 510 540 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-705 300 m 29
- 666 268.801 l 29
+705 300 m 25
+ 666 268.801 l 25
 132 480 m 17
  198 525 234 540 339 540 c 0
  449.872 540 546 519 546 396 c 0
@@ -461,10 +480,11 @@ EndSplineSet
 EndChar
 
 StartChar: Ta
-Encoding: 22 2335 22
+Encoding: 22 70342 22
 Width: 810
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 405 720 basechar 0
 AnchorPoint: "ukaar" 405 0 basechar 0
 AnchorPoint: "ekaar" 636 480 basechar 0
 LayerCount: 2
@@ -478,10 +498,11 @@ EndSplineSet
 EndChar
 
 StartChar: Tha
-Encoding: 23 2336 23
+Encoding: 23 70343 23
 Width: 801
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 400 720 basechar 0
 AnchorPoint: "ukaar" 400 0 basechar 0
 AnchorPoint: "ekaar" 610 540 basechar 0
 LayerCount: 2
@@ -496,10 +517,11 @@ EndSplineSet
 EndChar
 
 StartChar: Da
-Encoding: 24 2337 24
+Encoding: 24 70344 24
 Width: 843
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 421 720 basechar 0
 AnchorPoint: "ukaar" 421 0 basechar 0
 AnchorPoint: "ekaar" 640 540 basechar 0
 LayerCount: 2
@@ -517,10 +539,11 @@ EndSplineSet
 EndChar
 
 StartChar: Dqa
-Encoding: 25 2430 25
+Encoding: 25 70345 25
 Width: 755
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 377 720 basechar 0
 AnchorPoint: "ukaar" 377 0 basechar 0
 AnchorPoint: "ekaar" 636 480 basechar 0
 LayerCount: 2
@@ -535,10 +558,11 @@ EndSplineSet
 EndChar
 
 StartChar: Ra
-Encoding: 26 2396 26
+Encoding: 26 70346 26
 Width: 628
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 314 720 basechar 0
 AnchorPoint: "ukaar" 314 0 basechar 0
 AnchorPoint: "ekaar" 460 540 basechar 0
 LayerCount: 2
@@ -555,10 +579,11 @@ EndSplineSet
 EndChar
 
 StartChar: Dha
-Encoding: 27 2338 27
+Encoding: 27 70347 27
 Width: 864
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 432 720 basechar 0
 AnchorPoint: "ukaar" 432 0 basechar 0
 AnchorPoint: "ekaar" 455 480 basechar 0
 LayerCount: 2
@@ -576,10 +601,11 @@ EndSplineSet
 EndChar
 
 StartChar: Na
-Encoding: 28 2339 28
+Encoding: 28 70348 28
 Width: 786
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 393 720 basechar 0
 AnchorPoint: "ukaar" 393 0 basechar 0
 AnchorPoint: "ekaar" 666 480 basechar 0
 LayerCount: 2
@@ -596,10 +622,11 @@ EndSplineSet
 EndChar
 
 StartChar: ta
-Encoding: 29 2340 29
+Encoding: 29 70349 29
 Width: 697
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 348 720 basechar 0
 AnchorPoint: "ukaar" 348 0 basechar 0
 AnchorPoint: "ekaar" 540 480 basechar 0
 LayerCount: 2
@@ -614,10 +641,11 @@ EndSplineSet
 EndChar
 
 StartChar: tha
-Encoding: 30 2341 30
+Encoding: 30 70350 30
 Width: 834
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 417 720 basechar 0
 AnchorPoint: "ukaar" 417 0 basechar 0
 AnchorPoint: "ekaar" 638 480 basechar 0
 LayerCount: 2
@@ -633,10 +661,11 @@ EndSplineSet
 EndChar
 
 StartChar: da
-Encoding: 31 2342 31
+Encoding: 31 70351 31
 Width: 908
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 454 720 basechar 0
 AnchorPoint: "ukaar" 454 0 basechar 0
 AnchorPoint: "ekaar" 635 480 basechar 0
 LayerCount: 2
@@ -653,10 +682,11 @@ EndSplineSet
 EndChar
 
 StartChar: dha
-Encoding: 32 2343 32
+Encoding: 32 70352 32
 Width: 740
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 370 720 basechar 0
 AnchorPoint: "ukaar" 370 0 basechar 0
 AnchorPoint: "ekaar" 550 480 basechar 0
 LayerCount: 2
@@ -672,10 +702,11 @@ EndSplineSet
 EndChar
 
 StartChar: na
-Encoding: 33 2344 33
+Encoding: 33 70353 33
 Width: 1053
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 526 720 basechar 0
 AnchorPoint: "ukaar" 526 0 basechar 0
 AnchorPoint: "ekaar" 910 480 basechar 0
 LayerCount: 2
@@ -688,10 +719,11 @@ EndSplineSet
 EndChar
 
 StartChar: pa
-Encoding: 34 2346 34
+Encoding: 34 70354 34
 Width: 814
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 407 720 basechar 0
 AnchorPoint: "ukaar" 407 0 basechar 0
 AnchorPoint: "ekaar" 593 480 basechar 0
 LayerCount: 2
@@ -705,10 +737,11 @@ EndSplineSet
 EndChar
 
 StartChar: pha
-Encoding: 35 2347 35
+Encoding: 35 70355 35
 Width: 757
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 378 720 basechar 0
 AnchorPoint: "ukaar" 378 0 basechar 0
 AnchorPoint: "ekaar" 580 480 basechar 0
 LayerCount: 2
@@ -724,10 +757,11 @@ EndSplineSet
 EndChar
 
 StartChar: ba
-Encoding: 36 2348 36
+Encoding: 36 70356 36
 Width: 1047
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 523 720 basechar 0
 AnchorPoint: "ukaar" 523 0 basechar 0
 AnchorPoint: "ekaar" 927 540 basechar 0
 LayerCount: 2
@@ -742,10 +776,11 @@ EndSplineSet
 EndChar
 
 StartChar: bqa
-Encoding: 37 2431 37
+Encoding: 37 70357 37
 Width: 739
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 369 720 basechar 0
 AnchorPoint: "ukaar" 369 0 basechar 0
 AnchorPoint: "ekaar" 600 540 basechar 0
 LayerCount: 2
@@ -764,10 +799,11 @@ EndSplineSet
 EndChar
 
 StartChar: bha
-Encoding: 38 2349 38
+Encoding: 38 70358 38
 Width: 1140
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 570 720 basechar 0
 AnchorPoint: "ukaar" 570 0 basechar 0
 AnchorPoint: "ekaar" 1020 540 basechar 0
 LayerCount: 2
@@ -783,10 +819,11 @@ EndSplineSet
 EndChar
 
 StartChar: ma
-Encoding: 39 2350 39
+Encoding: 39 70359 39
 Width: 696
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 348 720 basechar 0
 AnchorPoint: "ukaar" 348 0 basechar 0
 AnchorPoint: "ekaar" 540 480 basechar 0
 LayerCount: 2
@@ -801,10 +838,11 @@ EndSplineSet
 EndChar
 
 StartChar: ya
-Encoding: 40 2351 40
+Encoding: 40 70360 40
 Width: 935
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 467 720 basechar 0
 AnchorPoint: "ukaar" 467 0 basechar 0
 AnchorPoint: "ekaar" 650 480 basechar 0
 LayerCount: 2
@@ -825,10 +863,11 @@ EndSplineSet
 EndChar
 
 StartChar: ra
-Encoding: 41 2352 41
+Encoding: 41 70361 41
 Width: 671
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 335 720 basechar 0
 AnchorPoint: "ukaar" 335 0 basechar 0
 AnchorPoint: "ekaar" 490 480 basechar 0
 LayerCount: 2
@@ -843,10 +882,11 @@ EndSplineSet
 EndChar
 
 StartChar: la
-Encoding: 42 2354 42
+Encoding: 42 70362 42
 Width: 766
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 383 720 basechar 0
 AnchorPoint: "ukaar" 383 0 basechar 0
 AnchorPoint: "ekaar" 490 480 basechar 0
 LayerCount: 2
@@ -861,10 +901,11 @@ EndSplineSet
 EndChar
 
 StartChar: va
-Encoding: 43 2357 43
+Encoding: 43 70363 43
 Width: 660
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 330 720 basechar 0
 AnchorPoint: "ukaar" 330 0 basechar 0
 AnchorPoint: "ekaar" 490 480 basechar 0
 LayerCount: 2
@@ -879,10 +920,11 @@ EndSplineSet
 EndChar
 
 StartChar: za
-Encoding: 44 2358 44
+Encoding: 44 70364 44
 Width: 831
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 415 720 basechar 0
 AnchorPoint: "ukaar" 415 0 basechar 0
 AnchorPoint: "ekaar" 650 480 basechar 0
 LayerCount: 2
@@ -901,10 +943,11 @@ EndSplineSet
 EndChar
 
 StartChar: sa
-Encoding: 45 2360 45
+Encoding: 45 70365 45
 Width: 831
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 415 720 basechar 0
 AnchorPoint: "ukaar" 415 0 basechar 0
 AnchorPoint: "ekaar" 650 480 basechar 0
 LayerCount: 2
@@ -922,10 +965,11 @@ EndSplineSet
 EndChar
 
 StartChar: ha
-Encoding: 46 2361 46
+Encoding: 46 70366 46
 Width: 719
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" 359 720 basechar 0
 AnchorPoint: "ukaar" 359 0 basechar 0
 AnchorPoint: "ekaar" 560 480 basechar 0
 LayerCount: 2
@@ -941,28 +985,35 @@ EndSplineSet
 EndChar
 
 StartChar: anusvAra
-Encoding: 47 2306 47
-Width: 1000
+Encoding: 47 70367 47
+Width: 0
 VWidth: 0
 Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: AT
-Encoding: 48 2366 48
-Width: 200
-VWidth: 0
-Flags: W
+AnchorPoint: "anusvara" -100 700 mark 0
 LayerCount: 2
 Fore
 SplineSet
-80 480 m 29
+-81 713.079 m 25
+ -120 681.88 l 25
+EndSplineSet
+EndChar
+
+StartChar: AT
+Encoding: 48 70368 48
+Width: 200
+VWidth: 0
+Flags: W
+AnchorPoint: "anusvara" 80 720 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+80 480 m 25
  80 0 l 25
 EndSplineSet
 EndChar
 
 StartChar: iT
-Encoding: 49 2367 49
+Encoding: 49 70369 49
 Width: 200
 VWidth: 0
 Flags: W
@@ -977,10 +1028,11 @@ EndSplineSet
 EndChar
 
 StartChar: IT
-Encoding: 50 2368 50
+Encoding: 50 70370 50
 Width: 200
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" -100 800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -992,7 +1044,7 @@ EndSplineSet
 EndChar
 
 StartChar: uT
-Encoding: 51 2369 51
+Encoding: 51 70371 51
 Width: 0
 VWidth: 0
 Flags: W
@@ -1007,7 +1059,7 @@ EndSplineSet
 EndChar
 
 StartChar: UT
-Encoding: 52 2370 52
+Encoding: 52 70372 52
 Width: 0
 VWidth: 0
 Flags: W
@@ -1025,10 +1077,11 @@ EndSplineSet
 EndChar
 
 StartChar: eT
-Encoding: 53 2375 53
+Encoding: 53 70373 53
 Width: 0
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" -300 800 basechar 0
 AnchorPoint: "ekaar" -100 480 mark 0
 LayerCount: 2
 Fore
@@ -1039,10 +1092,11 @@ EndSplineSet
 EndChar
 
 StartChar: aiT
-Encoding: 54 2376 54
+Encoding: 54 70374 54
 Width: 0
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" -300 800 basechar 0
 AnchorPoint: "ekaar" -100 480 mark 0
 LayerCount: 2
 Fore
@@ -1055,10 +1109,11 @@ EndSplineSet
 EndChar
 
 StartChar: oT
-Encoding: 55 2379 55
+Encoding: 55 70375 55
 Width: 0
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" -300 800 basechar 0
 AnchorPoint: "ekaar" -100 480 mark 0
 LayerCount: 2
 Fore
@@ -1069,10 +1124,11 @@ EndSplineSet
 EndChar
 
 StartChar: auT
-Encoding: 56 2380 56
+Encoding: 56 70376 56
 Width: 0
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" -300 800 basechar 0
 AnchorPoint: "ekaar" -100 480 mark 0
 LayerCount: 2
 Fore
@@ -1085,15 +1141,22 @@ EndSplineSet
 EndChar
 
 StartChar: nukta
-Encoding: 57 2364 57
-Width: 1000
+Encoding: 57 70377 57
+Width: 0
 VWidth: 0
 Flags: W
+AnchorPoint: "anusvara" -250 -255 basechar 0
+AnchorPoint: "ukaar" -250 0 mark 0
 LayerCount: 2
+Fore
+SplineSet
+-232 -103.801 m 25
+ -271 -135 l 25
+EndSplineSet
 EndChar
 
 StartChar: virAma
-Encoding: 58 2381 58
+Encoding: 58 70378 58
 Width: 0
 VWidth: 0
 Flags: W
@@ -1108,7 +1171,7 @@ EndSplineSet
 EndChar
 
 StartChar: bqurI
-Encoding: 59 2406 59
+Encoding: 59 70384 59
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1116,7 +1179,7 @@ LayerCount: 2
 EndChar
 
 StartChar: hiku
-Encoding: 60 2407 60
+Encoding: 60 70385 60
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1124,7 +1187,7 @@ LayerCount: 2
 EndChar
 
 StartChar: bqaH
-Encoding: 61 2408 61
+Encoding: 61 70386 61
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1132,7 +1195,7 @@ LayerCount: 2
 EndChar
 
 StartChar: Te
-Encoding: 62 2409 62
+Encoding: 62 70387 62
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1140,7 +1203,7 @@ LayerCount: 2
 EndChar
 
 StartChar: cAri
-Encoding: 63 2410 63
+Encoding: 63 70388 63
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1148,7 +1211,7 @@ LayerCount: 2
 EndChar
 
 StartChar: paJja
-Encoding: 64 2411 64
+Encoding: 64 70389 64
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1156,7 +1219,7 @@ LayerCount: 2
 EndChar
 
 StartChar: chaha
-Encoding: 65 2412 65
+Encoding: 65 70390 65
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1164,7 +1227,7 @@ LayerCount: 2
 EndChar
 
 StartChar: sata
-Encoding: 66 2413 66
+Encoding: 66 70391 66
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1172,7 +1235,7 @@ LayerCount: 2
 EndChar
 
 StartChar: aTha
-Encoding: 67 2414 67
+Encoding: 67 70392 67
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1180,7 +1243,7 @@ LayerCount: 2
 EndChar
 
 StartChar: nava
-Encoding: 68 2415 68
+Encoding: 68 70393 68
 Width: 1000
 VWidth: 0
 Flags: W
