@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1336774254
-ModificationTime: 1336801441
+ModificationTime: 1336803106
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -64,7 +64,7 @@ Grid
   Named: "topbase" 
 EndSplineSet
 AnchorClass2: "ukaar"  "Below-base Marks-1" "ekaar"  "Above-base Marks-1" 
-BeginChars: 70 70
+BeginChars: 72 72
 
 StartChar: akAra
 Encoding: 0 2309 0
@@ -1190,6 +1190,22 @@ EndChar
 StartChar: space
 Encoding: 69 32 69
 Width: 400
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: ZWNJ
+Encoding: 70 8204 70
+Width: 0
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: ZWJ
+Encoding: 71 8205 71
+Width: 0
 VWidth: 0
 Flags: W
 LayerCount: 2
