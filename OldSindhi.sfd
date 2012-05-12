@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1336774254
-ModificationTime: 1336801209
+ModificationTime: 1336801325
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -1094,10 +1094,17 @@ EndChar
 
 StartChar: virAma
 Encoding: 58 2381 58
-Width: 1000
+Width: 0
 VWidth: 0
 Flags: W
+AnchorPoint: "ukaar" -250 0 mark 0
 LayerCount: 2
+Fore
+SplineSet
+-400 -60 m 17
+ -363 -60 -308.416 -66.1054 -252 -87 c 0
+ -171 -117 -144 -150 -100 -201 c 9
+EndSplineSet
 EndChar
 
 StartChar: bqurI
