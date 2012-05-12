@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1336774254
-ModificationTime: 1336806757
+ModificationTime: 1336809828
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -47,7 +47,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 16 16 4
+WinInfo: 0 16 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1165,89 +1165,174 @@ LayerCount: 2
 Fore
 SplineSet
 -400 -60 m 17
- -363 -60 -308.416 -66.1054 -252 -87 c 0
- -171 -117 -144 -150 -100 -201 c 9
+ -362 -68.5 -284.057 -105.129 -234 -138.5 c 0
+ -156 -190.5 -128 -218.5 -100 -255 c 9
 EndSplineSet
 EndChar
 
 StartChar: bqurI
 Encoding: 59 70384 59
-Width: 1000
+Width: 596
 VWidth: 0
 Flags: W
 LayerCount: 2
+Fore
+SplineSet
+288.225 399.993 m 24
+ 184.479 389.502 115.545 296.163 120.225 191.993 c 24
+ 124.902 87.8535 202.478 -10.4883 306.192 0 c 24
+ 416.552 11.1602 481.202 117.184 476.225 227.993 c 24
+ 471.765 327.269 387.096 409.991 288.225 399.993 c 24
+EndSplineSet
 EndChar
 
 StartChar: hiku
 Encoding: 60 70385 60
-Width: 1000
+Width: 551
 VWidth: 0
 Flags: W
 LayerCount: 2
+Fore
+SplineSet
+351 378 m 17
+ 267 198 120 321 120 414 c 0
+ 120 477.224 162 540 222 540 c 0
+ 312 540 359.067 479.43 357 405 c 0
+ 354 297 342 0 417 0 c 0
+ 441.681 0 462 0 471 33 c 9
+EndSplineSet
 EndChar
 
 StartChar: bqaH
 Encoding: 61 70386 61
-Width: 1000
+Width: 779
 VWidth: 0
 Flags: W
 LayerCount: 2
+Fore
+SplineSet
+119.3 364.8 m 17
+ 184.1 429.6 296.899 480 409.7 480 c 0
+ 553.872 480 615.285 415.054 613.7 312 c 0
+ 611.3 156 383.3 30 299.3 30 c 0
+ 150.5 30 179.3 150 270.5 150 c 0
+ 376.1 150 489 171 659.4 0 c 9
+EndSplineSet
 EndChar
 
 StartChar: Te
 Encoding: 62 70387 62
-Width: 1000
+Width: 681
 VWidth: 0
 Flags: W
 LayerCount: 2
+Fore
+SplineSet
+132 426.667 m 17
+ 198 466.667 234 480 339 480 c 0
+ 449.872 480 546 461.333 546 352 c 0
+ 546 244.754 366 261.333 255 258.667 c 1
+ 366 261.333 561 261.333 561 138.667 c 0
+ 561 48.8105 454.938 4.88281 354 0 c 24
+ 249.376 -5.06055 168 34.667 120 117.333 c 9
+EndSplineSet
 EndChar
 
 StartChar: cAri
 Encoding: 63 70388 63
-Width: 1000
+Width: 752
 VWidth: 0
 Flags: W
 LayerCount: 2
+Fore
+SplineSet
+632 540 m 17
+ 510 412.2 234 183.6 234 111.6 c 0
+ 234 52.2002 297.187 0.884766 364 0 c 24
+ 433.571 -0.920898 506 46.7998 506 108 c 0
+ 506 153.543 242 480 172 480 c 0
+ 146 480 100 448 80 360 c 9
+EndSplineSet
 EndChar
 
 StartChar: paJja
 Encoding: 64 70389 64
-Width: 1000
+Width: 699
 VWidth: 0
 Flags: W
 LayerCount: 2
+Fore
+SplineSet
+619.25 33.5996 m 17
+ 589.25 4.7998 562.25 0 532.25 0 c 0
+ 436.25 0 496.25 352.8 517.25 480 c 1
+ 493.522 323.903 494 237.583 296 250 c 0
+ 183.757 257.039 120 345.263 120 480 c 9
+EndSplineSet
 EndChar
 
 StartChar: chaha
 Encoding: 65 70390 65
-Width: 1000
+Width: 681
 VWidth: 0
 Flags: W
 LayerCount: 2
+Fore
+SplineSet
+422 426.667 m 17
+ 402 459.973 384.5 480 310.5 480 c 0
+ 236.5 480 135 415.528 135 352 c 0
+ 135 269.75 266 243.083 456 258.667 c 1
+ 244 258.667 120 209.306 120 107.973 c 0
+ 120 18.1162 233.427 -2.11328 327 0 c 24
+ 422.881 2.16602 486.5 34.667 534.5 117.333 c 9
+EndSplineSet
 EndChar
 
 StartChar: sata
 Encoding: 66 70391 66
-Width: 1000
+Width: 792
 VWidth: 0
 Flags: W
 LayerCount: 2
+Fore
+SplineSet
+120 480 m 17
+ 120 189 204 0 429 0 c 0
+ 564.689 0 672 113.311 672 249 c 0
+ 672 381 621 480 486 480 c 0
+ 351.267 480 303 186 636 153 c 0
+EndSplineSet
 EndChar
 
 StartChar: aTha
 Encoding: 67 70392 67
-Width: 1000
+Width: 756
 VWidth: 0
 Flags: W
 LayerCount: 2
+Fore
+SplineSet
+546.354 480 m 17
+ 360.354 375 102.895 220 120.895 115 c 0
+ 133.817 39.6143 198.895 40 636.895 40 c 9
+EndSplineSet
 EndChar
 
 StartChar: nava
 Encoding: 68 70393 68
-Width: 1000
+Width: 787
 VWidth: 0
 Flags: W
 LayerCount: 2
+Fore
+SplineSet
+526.53 480 m 25
+ 241.53 57 l 29
+145.53 480 m 17
+ 73.5303 162 154.53 0 379.53 0 c 0
+ 525.476 0 640.53 111 667.53 282 c 9
+EndSplineSet
 EndChar
 
 StartChar: space
