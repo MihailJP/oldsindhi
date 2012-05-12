@@ -2,7 +2,7 @@
 
 FONTS=OldSindhi.ttf
 DOCUMENTS=license.txt README
-PKGS=MarathiCursive.7z
+PKGS=OldSindhi.7z
 7ZOPT=-mx9
 
 # Path to Graphite compiler
@@ -26,7 +26,7 @@ OldSindhi.ttf: raw.ttf OldSindhi.gdl
 .PHONY: dist
 dist: ${PKGS}
 
-MarathiCursive.7z: ${FONTS} ${DOCUMENTS}
+OldSindhi.7z: ${FONTS} ${DOCUMENTS}
 	-rm -rf $*
 	mkdir $*
 	cp ${FONTS} ${DOCUMENTS} $*
