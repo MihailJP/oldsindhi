@@ -63,7 +63,7 @@ g_e_t = glyphid(56) {anusvaraS = point(-614m, 1638m); ekaarM = point(-205m, 983m
 g_ai_t = glyphid(57) {anusvaraS = point(-614m, 1638m); ekaarM = point(-205m, 983m)};
 g_o_t = glyphid(58) {anusvaraS = point(-614m, 1638m); ekaarM = point(-205m, 983m)};
 g_au_t = glyphid(59) {anusvaraS = point(-614m, 1638m); ekaarM = point(-205m, 983m)};
-g_nukta = glyphid(60) {anusvaraS = point(-512m, -522m); ukaarM = point(-512m, 0m)};
+g_nukta = glyphid(60) {ukaarS = point(-512m, -522m); ukaarM = point(-512m, 0m)};
 g_vir_ama = glyphid(61) {ukaarM = point(-512m, 0m)};
 g_bqur_i = glyphid(62);
 g_hiku = glyphid(63);
@@ -82,53 +82,16 @@ g__z_w_j = glyphid(74);
 /* Classes */
 canusvaraDia = (g_anusv_ara);
 
-cnanusvaraDia = (g__null, g_nonmarkingreturn, g_ak_ara, g__ak_ara, g_it, g__it, g_ut, g__ut,
-    g_et, g_ait, g_ot, g_aut, g_ka, g_kha, g_ga, g_gqa,
-    g_gha, g__ga, g_ca, g_cha, g_ja, g_jqa, g_jha, g__ja,
-    g__ta, g__tha, g__da, g__dqa, g__ra, g__dha, g__na, g_ta,
-    g_tha, g_da, g_dha, g_na, g_pa, g_pha, g_ba, g_bqa,
-    g_bha, g_ma, g_ya, g_ra, g_la, g_va, g_za, g_sa,
-    g_ha, g__a_t, g_i_t, g__i_t, g_u_t, g__u_t, g_e_t, g_ai_t,
-    g_o_t, g_au_t, g_nukta, g_vir_ama, g_bqur_i, g_hiku, g_bqa_h, g__te,
-    g_c_ari, g_pa_jja, g_chaha, g_sata, g_a_tha, g_nava, g_space, g__z_w_n_j,
-    g__z_w_j);
-
 cekaarDia = (g_e_t, g_ai_t, g_o_t, g_au_t);
 
-cnekaarDia = (g__null, g_nonmarkingreturn, g_ak_ara, g__ak_ara, g_it, g__it, g_ut, g__ut,
-    g_et, g_ait, g_ot, g_aut, g_ka, g_kha, g_ga, g_gqa,
-    g_gha, g__ga, g_ca, g_cha, g_ja, g_jqa, g_jha, g__ja,
-    g__ta, g__tha, g__da, g__dqa, g__ra, g__dha, g__na, g_ta,
-    g_tha, g_da, g_dha, g_na, g_pa, g_pha, g_ba, g_bqa,
-    g_bha, g_ma, g_ya, g_ra, g_la, g_va, g_za, g_sa,
-    g_ha, g_anusv_ara, g__a_t, g_i_t, g__i_t, g_u_t, g__u_t, g_nukta,
-    g_vir_ama, g_bqur_i, g_hiku, g_bqa_h, g__te, g_c_ari, g_pa_jja, g_chaha,
-    g_sata, g_a_tha, g_nava, g_space, g__z_w_n_j, g__z_w_j);
-
-cukaarDia = (g_u_t, g__u_t, g_nukta, g_vir_ama);
-
-cnukaarDia = (g__null, g_nonmarkingreturn, g_ak_ara, g__ak_ara, g_it, g__it, g_ut, g__ut,
-    g_et, g_ait, g_ot, g_aut, g_ka, g_kha, g_ga, g_gqa,
-    g_gha, g__ga, g_ca, g_cha, g_ja, g_jqa, g_jha, g__ja,
-    g__ta, g__tha, g__da, g__dqa, g__ra, g__dha, g__na, g_ta,
-    g_tha, g_da, g_dha, g_na, g_pa, g_pha, g_ba, g_bqa,
-    g_bha, g_ma, g_ya, g_ra, g_la, g_va, g_za, g_sa,
-    g_ha, g_anusv_ara, g__a_t, g_i_t, g__i_t, g_e_t, g_ai_t, g_o_t,
-    g_au_t, g_bqur_i, g_hiku, g_bqa_h, g__te, g_c_ari, g_pa_jja, g_chaha,
-    g_sata, g_a_tha, g_nava, g_space, g__z_w_n_j, g__z_w_j);
+cukaarDia = (g_u_t, g__u_t, g_vir_ama);
 
 cTakesanusvaraDia = (g_ak_ara, g_it, g__it, g_ut, g__ut, g_ka, g_kha, g_ga,
     g_gqa, g_gha, g__ga, g_ca, g_cha, g_ja, g_jqa, g_jha,
     g__ja, g__ta, g__tha, g__da, g__dqa, g__ra, g__dha, g__na,
     g_ta, g_tha, g_da, g_dha, g_na, g_pa, g_pha, g_ba,
     g_bqa, g_bha, g_ma, g_ya, g_ra, g_la, g_va, g_za,
-    g_sa, g_ha, g__a_t, g__i_t, g_e_t, g_ai_t, g_o_t, g_au_t,
-    g_nukta);
-
-cnTakesanusvaraDia = (g__null, g_nonmarkingreturn, g__ak_ara, g_et, g_ait, g_ot, g_aut, g_anusv_ara,
-    g_i_t, g_u_t, g__u_t, g_vir_ama, g_bqur_i, g_hiku, g_bqa_h, g__te,
-    g_c_ari, g_pa_jja, g_chaha, g_sata, g_a_tha, g_nava, g_space, g__z_w_n_j,
-    g__z_w_j);
+    g_sa, g_ha, g__a_t, g__i_t, g_e_t, g_ai_t, g_o_t, g_au_t);
 
 cTakesekaarDia = (g_ak_ara, g_ka, g_kha, g_ga, g_gqa, g_gha, g__ga, g_ca,
     g_cha, g_ja, g_jqa, g_jha, g__ja, g__ta, g__tha, g__da,
@@ -136,24 +99,77 @@ cTakesekaarDia = (g_ak_ara, g_ka, g_kha, g_ga, g_gqa, g_gha, g__ga, g_ca,
     g_na, g_pa, g_pha, g_ba, g_bqa, g_bha, g_ma, g_ya,
     g_ra, g_la, g_va, g_za, g_sa, g_ha);
 
-cnTakesekaarDia = (g__null, g_nonmarkingreturn, g__ak_ara, g_it, g__it, g_ut, g__ut, g_et,
-    g_ait, g_ot, g_aut, g_anusv_ara, g__a_t, g_i_t, g__i_t, g_u_t,
-    g__u_t, g_e_t, g_ai_t, g_o_t, g_au_t, g_nukta, g_vir_ama, g_bqur_i,
-    g_hiku, g_bqa_h, g__te, g_c_ari, g_pa_jja, g_chaha, g_sata, g_a_tha,
-    g_nava, g_space, g__z_w_n_j, g__z_w_j);
-
 cTakesukaarDia = (g_ka, g_kha, g_ga, g_gqa, g_gha, g__ga, g_ca, g_cha,
     g_ja, g_jqa, g_jha, g__ja, g__ta, g__tha, g__da, g__dqa,
     g__ra, g__dha, g__na, g_ta, g_tha, g_da, g_dha, g_na,
     g_pa, g_pha, g_ba, g_bqa, g_bha, g_ma, g_ya, g_ra,
     g_la, g_va, g_za, g_sa, g_ha);
 
-cnTakesukaarDia = (g__null, g_nonmarkingreturn, g_ak_ara, g__ak_ara, g_it, g__it, g_ut, g__ut,
-    g_et, g_ait, g_ot, g_aut, g_anusv_ara, g__a_t, g_i_t, g__i_t,
-    g_u_t, g__u_t, g_e_t, g_ai_t, g_o_t, g_au_t, g_nukta, g_vir_ama,
-    g_bqur_i, g_hiku, g_bqa_h, g__te, g_c_ari, g_pa_jja, g_chaha, g_sata,
-    g_a_tha, g_nava, g_space, g__z_w_n_j, g__z_w_j);
+Consonants = (g_ka, g_kha, g_ga, g_gqa,
+    g_gha, g__ga, g_ca, g_cha, g_ja, g_jqa, g_jha, g__ja,
+    g__ta, g__tha, g__da, g__dqa, g__ra, g__dha, g__na, g_ta,
+    g_tha, g_da, g_dha, g_na, g_pa, g_pha, g_ba, g_bqa,
+    g_bha, g_ma, g_ya, g_ra, g_la, g_va, g_za, g_sa, g_ha);
+
+PUACodePoints = (unicode(0xe2b0 .. 0xe2ea), unicode(0xe2f0 .. 0xe2f9));
+KhudabadiCodePoints = (unicode(0x112b0 .. 0x112ea), unicode(0x112f0 .. 0x112f9));
 
 endtable;
 
 #define MAXGLYPH 74
+
+
+/* --------------------------------------------------------------------- */
+
+table(substitution)
+
+/* PUA to SMP */
+pass(1)
+    PUACodePoints > KhudabadiCodePoints;
+endpass;
+
+/* Decompose */
+pass(2)
+    g__ak_ara _ > g_ak_ara:1 g__a_t:1;
+    g_et _ > g_ak_ara:1 g_e_t:1;
+    g_ait _ > g_ak_ara:1 g_ai_t:1;
+    g_ot _ > g_ak_ara:1 g_o_t:1;
+    g_aut _ > g_ak_ara:1 g_au_t:1;
+endpass;
+
+/* i-matra */
+pass(3)
+    Consonants g_i_t > @2 @1;
+    Consonants g_nukta g_i_t > @2 @3 @1;
+endpass;
+
+endtable;
+
+
+/* --------------------------------------------------------------------- */
+
+table(positioning)
+
+/* Nukta */
+pass(1)
+    cTakesukaarDia g_nukta {attach {to=@1; at=ukaarS; with=ukaarM}};
+endpass;
+
+/* Ukaar and Virama */
+pass(2)
+    cTakesukaarDia cukaarDia {attach {to=@1; at=ukaarS; with=ukaarM}};
+    cTakesukaarDia g_nukta cukaarDia {attach {to=@2; at=ukaarS; with=ukaarM}};
+endpass;
+
+/* Ekaar */
+pass(3)
+    cTakesekaarDia g_nukta? cekaarDia {attach {to=@1; at=ekaarS; with=ekaarM}};
+endpass;
+
+/* Anusvara */
+pass(4)
+    cTakesanusvaraDia g_nukta? cukaarDia? canusvaraDia {attach {to=@1; at=anusvaraS; with=anusvaraM}};
+    cTakesanusvaraDia g_nukta? cukaarDia? cekaarDia canusvaraDia {attach {to=@4; at=anusvaraS; with=anusvaraM}};
+endpass;
+
+endtable;
