@@ -1,0 +1,159 @@
+/*
+    Glyph information for font OldSindhi at Sat May 12 09:25:09 2012
+*/
+
+table(glyph) {MUnits = 2048};
+g__notdef = glyphid(0);
+g__null = glyphid(1);
+g_nonmarkingreturn = glyphid(2);
+g_ak_ara = glyphid(3) {anusvaraS = point(1032m, 1475m); ekaarS = point(1536m, 983m)};
+g__ak_ara = glyphid(4);
+g_it = glyphid(5) {anusvaraS = point(772m, 1475m)};
+g__it = glyphid(6) {anusvaraS = point(1122m, 1475m)};
+g_ut = glyphid(7) {anusvaraS = point(766m, 1475m)};
+g__ut = glyphid(8) {anusvaraS = point(766m, 1638m)};
+g_et = glyphid(9);
+g_ait = glyphid(10);
+g_ot = glyphid(11);
+g_aut = glyphid(12);
+g_ka = glyphid(13) {ukaarS = point(872m, 0m); anusvaraS = point(872m, 1475m); ekaarS = point(1116m, 983m)};
+g_kha = glyphid(14) {ukaarS = point(729m, 0m); anusvaraS = point(729m, 1475m); ekaarS = point(1085m, 983m)};
+g_ga = glyphid(15) {ukaarS = point(807m, 0m); anusvaraS = point(807m, 1475m); ekaarS = point(1126m, 983m)};
+g_gqa = glyphid(16) {ukaarS = point(819m, 0m); anusvaraS = point(694m, 1475m); ekaarS = point(1147m, 983m)};
+g_gha = glyphid(17) {ukaarS = point(788m, 0m); anusvaraS = point(788m, 1475m); ekaarS = point(1147m, 1106m)};
+g__ga = glyphid(18) {ukaarS = point(817m, 0m); anusvaraS = point(817m, 1475m); ekaarS = point(983m, 983m)};
+g_ca = glyphid(19) {ukaarS = point(795m, 0m); anusvaraS = point(795m, 1475m); ekaarS = point(1343m, 1106m)};
+g_cha = glyphid(20) {ukaarS = point(913m, 0m); anusvaraS = point(913m, 1475m); ekaarS = point(969m, 1106m)};
+g_ja = glyphid(21) {ukaarS = point(920m, 0m); anusvaraS = point(920m, 1475m); ekaarS = point(1475m, 983m)};
+g_jqa = glyphid(22) {ukaarS = point(1079m, 0m); anusvaraS = point(1079m, 1475m); ekaarS = point(1913m, 983m)};
+g_jha = glyphid(23) {ukaarS = point(932m, 0m); anusvaraS = point(932m, 1475m); ekaarS = point(1516m, 983m)};
+g__ja = glyphid(24) {ukaarS = point(844m, 0m); anusvaraS = point(844m, 1475m); ekaarS = point(1044m, 1106m)};
+g__ta = glyphid(25) {ukaarS = point(829m, 0m); anusvaraS = point(829m, 1475m); ekaarS = point(1303m, 983m)};
+g__tha = glyphid(26) {ukaarS = point(819m, 0m); anusvaraS = point(819m, 1475m); ekaarS = point(1249m, 1106m)};
+g__da = glyphid(27) {ukaarS = point(862m, 0m); anusvaraS = point(862m, 1475m); ekaarS = point(1311m, 1106m)};
+g__dqa = glyphid(28) {ukaarS = point(772m, 0m); anusvaraS = point(772m, 1475m); ekaarS = point(1303m, 983m)};
+g__ra = glyphid(29) {ukaarS = point(643m, 0m); anusvaraS = point(643m, 1475m); ekaarS = point(942m, 1106m)};
+g__dha = glyphid(30) {ukaarS = point(885m, 0m); anusvaraS = point(885m, 1475m); ekaarS = point(932m, 983m)};
+g__na = glyphid(31) {ukaarS = point(805m, 0m); anusvaraS = point(805m, 1475m); ekaarS = point(1364m, 983m)};
+g_ta = glyphid(32) {ukaarS = point(713m, 0m); anusvaraS = point(713m, 1475m); ekaarS = point(1106m, 983m)};
+g_tha = glyphid(33) {ukaarS = point(854m, 0m); anusvaraS = point(854m, 1475m); ekaarS = point(1307m, 983m)};
+g_da = glyphid(34) {ukaarS = point(930m, 0m); anusvaraS = point(930m, 1475m); ekaarS = point(1300m, 983m)};
+g_dha = glyphid(35) {ukaarS = point(758m, 0m); anusvaraS = point(758m, 1475m); ekaarS = point(1126m, 983m)};
+g_na = glyphid(36) {ukaarS = point(1077m, 0m); anusvaraS = point(1077m, 1475m); ekaarS = point(1864m, 983m)};
+g_pa = glyphid(37) {ukaarS = point(834m, 0m); anusvaraS = point(834m, 1475m); ekaarS = point(1214m, 983m)};
+g_pha = glyphid(38) {ukaarS = point(774m, 0m); anusvaraS = point(774m, 1475m); ekaarS = point(1188m, 983m)};
+g_ba = glyphid(39) {ukaarS = point(1071m, 0m); anusvaraS = point(1071m, 1475m); ekaarS = point(1898m, 1106m)};
+g_bqa = glyphid(40) {ukaarS = point(756m, 0m); anusvaraS = point(756m, 1475m); ekaarS = point(1229m, 1106m)};
+g_bha = glyphid(41) {ukaarS = point(1167m, 0m); anusvaraS = point(1167m, 1475m); ekaarS = point(2089m, 1106m)};
+g_ma = glyphid(42) {ukaarS = point(713m, 0m); anusvaraS = point(713m, 1475m); ekaarS = point(1106m, 983m)};
+g_ya = glyphid(43) {ukaarS = point(956m, 0m); anusvaraS = point(956m, 1475m); ekaarS = point(1331m, 983m)};
+g_ra = glyphid(44) {ukaarS = point(686m, 0m); anusvaraS = point(686m, 1475m); ekaarS = point(1004m, 983m)};
+g_la = glyphid(45) {ukaarS = point(784m, 0m); anusvaraS = point(784m, 1475m); ekaarS = point(1004m, 983m)};
+g_va = glyphid(46) {ukaarS = point(676m, 0m); anusvaraS = point(676m, 1475m); ekaarS = point(1004m, 983m)};
+g_za = glyphid(47) {ukaarS = point(850m, 0m); anusvaraS = point(850m, 1475m); ekaarS = point(1331m, 983m)};
+g_sa = glyphid(48) {ukaarS = point(850m, 0m); anusvaraS = point(850m, 1475m); ekaarS = point(1331m, 983m)};
+g_ha = glyphid(49) {ukaarS = point(735m, 0m); anusvaraS = point(735m, 1475m); ekaarS = point(1147m, 983m)};
+g_anusv_ara = glyphid(50) {anusvaraM = point(-205m, 1434m)};
+g__a_t = glyphid(51) {anusvaraS = point(164m, 1475m)};
+g_i_t = glyphid(52);
+g__i_t = glyphid(53) {anusvaraS = point(-205m, 1638m)};
+g_u_t = glyphid(54) {ukaarM = point(-512m, 0m)};
+g__u_t = glyphid(55) {ukaarM = point(-512m, 0m)};
+g_e_t = glyphid(56) {anusvaraS = point(-614m, 1638m); ekaarM = point(-205m, 983m)};
+g_ai_t = glyphid(57) {anusvaraS = point(-614m, 1638m); ekaarM = point(-205m, 983m)};
+g_o_t = glyphid(58) {anusvaraS = point(-614m, 1638m); ekaarM = point(-205m, 983m)};
+g_au_t = glyphid(59) {anusvaraS = point(-614m, 1638m); ekaarM = point(-205m, 983m)};
+g_nukta = glyphid(60) {anusvaraS = point(-512m, -522m); ukaarM = point(-512m, 0m)};
+g_vir_ama = glyphid(61) {ukaarM = point(-512m, 0m)};
+g_bqur_i = glyphid(62);
+g_hiku = glyphid(63);
+g_bqa_h = glyphid(64);
+g__te = glyphid(65);
+g_c_ari = glyphid(66);
+g_pa_jja = glyphid(67);
+g_chaha = glyphid(68);
+g_sata = glyphid(69);
+g_a_tha = glyphid(70);
+g_nava = glyphid(71);
+g_space = glyphid(72);
+g__z_w_n_j = glyphid(73);
+g__z_w_j = glyphid(74);
+
+/* Classes */
+canusvaraDia = (g_anusv_ara);
+
+cnanusvaraDia = (g__null, g_nonmarkingreturn, g_ak_ara, g__ak_ara, g_it, g__it, g_ut, g__ut,
+    g_et, g_ait, g_ot, g_aut, g_ka, g_kha, g_ga, g_gqa,
+    g_gha, g__ga, g_ca, g_cha, g_ja, g_jqa, g_jha, g__ja,
+    g__ta, g__tha, g__da, g__dqa, g__ra, g__dha, g__na, g_ta,
+    g_tha, g_da, g_dha, g_na, g_pa, g_pha, g_ba, g_bqa,
+    g_bha, g_ma, g_ya, g_ra, g_la, g_va, g_za, g_sa,
+    g_ha, g__a_t, g_i_t, g__i_t, g_u_t, g__u_t, g_e_t, g_ai_t,
+    g_o_t, g_au_t, g_nukta, g_vir_ama, g_bqur_i, g_hiku, g_bqa_h, g__te,
+    g_c_ari, g_pa_jja, g_chaha, g_sata, g_a_tha, g_nava, g_space, g__z_w_n_j,
+    g__z_w_j);
+
+cekaarDia = (g_e_t, g_ai_t, g_o_t, g_au_t);
+
+cnekaarDia = (g__null, g_nonmarkingreturn, g_ak_ara, g__ak_ara, g_it, g__it, g_ut, g__ut,
+    g_et, g_ait, g_ot, g_aut, g_ka, g_kha, g_ga, g_gqa,
+    g_gha, g__ga, g_ca, g_cha, g_ja, g_jqa, g_jha, g__ja,
+    g__ta, g__tha, g__da, g__dqa, g__ra, g__dha, g__na, g_ta,
+    g_tha, g_da, g_dha, g_na, g_pa, g_pha, g_ba, g_bqa,
+    g_bha, g_ma, g_ya, g_ra, g_la, g_va, g_za, g_sa,
+    g_ha, g_anusv_ara, g__a_t, g_i_t, g__i_t, g_u_t, g__u_t, g_nukta,
+    g_vir_ama, g_bqur_i, g_hiku, g_bqa_h, g__te, g_c_ari, g_pa_jja, g_chaha,
+    g_sata, g_a_tha, g_nava, g_space, g__z_w_n_j, g__z_w_j);
+
+cukaarDia = (g_u_t, g__u_t, g_nukta, g_vir_ama);
+
+cnukaarDia = (g__null, g_nonmarkingreturn, g_ak_ara, g__ak_ara, g_it, g__it, g_ut, g__ut,
+    g_et, g_ait, g_ot, g_aut, g_ka, g_kha, g_ga, g_gqa,
+    g_gha, g__ga, g_ca, g_cha, g_ja, g_jqa, g_jha, g__ja,
+    g__ta, g__tha, g__da, g__dqa, g__ra, g__dha, g__na, g_ta,
+    g_tha, g_da, g_dha, g_na, g_pa, g_pha, g_ba, g_bqa,
+    g_bha, g_ma, g_ya, g_ra, g_la, g_va, g_za, g_sa,
+    g_ha, g_anusv_ara, g__a_t, g_i_t, g__i_t, g_e_t, g_ai_t, g_o_t,
+    g_au_t, g_bqur_i, g_hiku, g_bqa_h, g__te, g_c_ari, g_pa_jja, g_chaha,
+    g_sata, g_a_tha, g_nava, g_space, g__z_w_n_j, g__z_w_j);
+
+cTakesanusvaraDia = (g_ak_ara, g_it, g__it, g_ut, g__ut, g_ka, g_kha, g_ga,
+    g_gqa, g_gha, g__ga, g_ca, g_cha, g_ja, g_jqa, g_jha,
+    g__ja, g__ta, g__tha, g__da, g__dqa, g__ra, g__dha, g__na,
+    g_ta, g_tha, g_da, g_dha, g_na, g_pa, g_pha, g_ba,
+    g_bqa, g_bha, g_ma, g_ya, g_ra, g_la, g_va, g_za,
+    g_sa, g_ha, g__a_t, g__i_t, g_e_t, g_ai_t, g_o_t, g_au_t,
+    g_nukta);
+
+cnTakesanusvaraDia = (g__null, g_nonmarkingreturn, g__ak_ara, g_et, g_ait, g_ot, g_aut, g_anusv_ara,
+    g_i_t, g_u_t, g__u_t, g_vir_ama, g_bqur_i, g_hiku, g_bqa_h, g__te,
+    g_c_ari, g_pa_jja, g_chaha, g_sata, g_a_tha, g_nava, g_space, g__z_w_n_j,
+    g__z_w_j);
+
+cTakesekaarDia = (g_ak_ara, g_ka, g_kha, g_ga, g_gqa, g_gha, g__ga, g_ca,
+    g_cha, g_ja, g_jqa, g_jha, g__ja, g__ta, g__tha, g__da,
+    g__dqa, g__ra, g__dha, g__na, g_ta, g_tha, g_da, g_dha,
+    g_na, g_pa, g_pha, g_ba, g_bqa, g_bha, g_ma, g_ya,
+    g_ra, g_la, g_va, g_za, g_sa, g_ha);
+
+cnTakesekaarDia = (g__null, g_nonmarkingreturn, g__ak_ara, g_it, g__it, g_ut, g__ut, g_et,
+    g_ait, g_ot, g_aut, g_anusv_ara, g__a_t, g_i_t, g__i_t, g_u_t,
+    g__u_t, g_e_t, g_ai_t, g_o_t, g_au_t, g_nukta, g_vir_ama, g_bqur_i,
+    g_hiku, g_bqa_h, g__te, g_c_ari, g_pa_jja, g_chaha, g_sata, g_a_tha,
+    g_nava, g_space, g__z_w_n_j, g__z_w_j);
+
+cTakesukaarDia = (g_ka, g_kha, g_ga, g_gqa, g_gha, g__ga, g_ca, g_cha,
+    g_ja, g_jqa, g_jha, g__ja, g__ta, g__tha, g__da, g__dqa,
+    g__ra, g__dha, g__na, g_ta, g_tha, g_da, g_dha, g_na,
+    g_pa, g_pha, g_ba, g_bqa, g_bha, g_ma, g_ya, g_ra,
+    g_la, g_va, g_za, g_sa, g_ha);
+
+cnTakesukaarDia = (g__null, g_nonmarkingreturn, g_ak_ara, g__ak_ara, g_it, g__it, g_ut, g__ut,
+    g_et, g_ait, g_ot, g_aut, g_anusv_ara, g__a_t, g_i_t, g__i_t,
+    g_u_t, g__u_t, g_e_t, g_ai_t, g_o_t, g_au_t, g_nukta, g_vir_ama,
+    g_bqur_i, g_hiku, g_bqa_h, g__te, g_c_ari, g_pa_jja, g_chaha, g_sata,
+    g_a_tha, g_nava, g_space, g__z_w_n_j, g__z_w_j);
+
+endtable;
+
+#define MAXGLYPH 74
