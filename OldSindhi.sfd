@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1336774254
-ModificationTime: 1336794810
+ModificationTime: 1336798564
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -36,6 +36,7 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
+Lookup: 260 0 0 "Above-base Marks"  {"Above-base Marks-1"  } ['abvm' ('deva' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 Encoding: Original
@@ -61,6 +62,7 @@ Grid
  2000 600 l 0
   Named: "topbase" 
 EndSplineSet
+AnchorClass2: "ekaar"  "Above-base Marks-1" 
 BeginChars: 69 69
 
 StartChar: uni0905
@@ -214,15 +216,16 @@ Encoding: 10 2325 10
 Width: 893
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 585 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 120 324 m 17
  130.5 379.2 198 480 258 480 c 0
  355.5 480 348 180 349.5 0 c 1
- 360 230.4 429 480 585 480 c 0
- 735 480 577.5 0 705 0 c 4
- 754.362 0 769.5 19.2002 813 52.7998 c 13
+ 360 230.4 429 480 585 480 c 4
+ 735 480 577.5 0 705 0 c 0
+ 754.362 0 769.5 19.2002 813 52.7998 c 9
 EndSplineSet
 EndChar
 
@@ -231,6 +234,7 @@ Encoding: 11 2326 11
 Width: 712
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 530 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -251,6 +255,7 @@ Encoding: 12 2327 12
 Width: 789
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 550 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -271,10 +276,11 @@ Encoding: 13 2427 13
 Width: 719
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 600 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-599.646 480 m 25
+599.646 480 m 29
  599.646 0 l 25
 362.146 480 m 17
  362.146 288 361.646 224 361.646 110.4 c 0
@@ -289,6 +295,7 @@ Encoding: 14 2328 14
 Width: 770
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 560 540 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -307,6 +314,7 @@ Encoding: 15 2329 15
 Width: 798
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 480 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -325,6 +333,7 @@ Encoding: 16 2330 16
 Width: 776
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 656 540 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -332,7 +341,7 @@ SplineSet
  254 408.6 530 187.2 530 108 c 0
  530 46.7998 460.499 -0.959961 388 0 c 24
  317.942 0.927734 258 52.2002 258 111.6 c 0
- 258 183.6 534 412.2 656 540 c 9
+ 258 183.6 534 412.2 656 540 c 13
 EndSplineSet
 EndChar
 
@@ -341,11 +350,12 @@ Encoding: 17 2331 17
 Width: 933
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 513 540 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 120 540 m 25
- 513 540 l 17
+ 513 540 l 21
  243 540 201 529.2 201 461.7 c 0
  201 299.7 378 299.7 522 299.7 c 1
  339 299.7 243 270 243 178.2 c 0
@@ -361,6 +371,7 @@ Encoding: 18 2332 18
 Width: 898
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 720 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -380,6 +391,7 @@ Encoding: 19 2428 19
 Width: 1054
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 934 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -389,7 +401,7 @@ SplineSet
  484.5 0 l 17
  562.5 235.2 712.5 223.2 775.5 225.6 c 0
  889.371 229.938 955.5 0 760.5 0 c 0
- 538.5 0 697.5 480 934.5 480 c 0
+ 538.5 0 697.5 480 934.5 480 c 4
 EndSplineSet
 EndChar
 
@@ -398,6 +410,7 @@ Encoding: 20 2333 20
 Width: 910
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 740 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -418,6 +431,7 @@ Encoding: 21 2334 21
 Width: 825
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 510 540 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -438,11 +452,12 @@ Encoding: 22 2335 22
 Width: 850
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 676 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 120 480 m 25
- 676.2 480 l 17
+ 676.2 480 l 21
  365.7 480 185.416 381.606 187.5 211.2 c 0
  190.2 -9.59961 390 0 730.2 0 c 9
 EndSplineSet
@@ -453,6 +468,7 @@ Encoding: 23 2336 23
 Width: 801
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 610 540 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -469,6 +485,7 @@ Encoding: 24 2337 24
 Width: 843
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 640 540 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -488,10 +505,11 @@ Encoding: 25 2430 25
 Width: 755
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 636 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-635.7 480 m 25
+635.7 480 m 29
  120 480 l 25
  487.2 266.4 l 25
  125.4 0 l 25
@@ -504,6 +522,7 @@ Encoding: 26 2396 26
 Width: 628
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 460 540 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -522,11 +541,12 @@ Encoding: 27 2338 27
 Width: 904
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 495 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 120 480 m 25
- 495.3 480 l 17
+ 495.3 480 l 21
  354.899 480 189.456 463.177 187.5 292.77 c 0
  184.8 57.5693 325.2 0 473.7 0 c 0
  608.494 0 710.456 44.1211 776.1 148.77 c 24
@@ -541,14 +561,15 @@ Encoding: 28 2339 28
 Width: 786
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 666 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 666 480 m 29
  666 0 l 25
-402 480 m 29
+402 480 m 25
  402 0 l 25
-120 480 m 29
+120 480 m 25
  120 54 l 18
  120 -71.6816 279 -177 561 -255 c 9
 EndSplineSet
@@ -559,6 +580,7 @@ Encoding: 29 2340 29
 Width: 697
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 540 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -575,6 +597,7 @@ Encoding: 30 2341 30
 Width: 834
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 638 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -592,6 +615,7 @@ Encoding: 31 2342 31
 Width: 908
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 635 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -610,6 +634,7 @@ Encoding: 32 2343 32
 Width: 820
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 590 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -627,6 +652,7 @@ Encoding: 33 2344 33
 Width: 1053
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 910 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -641,11 +667,12 @@ Encoding: 34 2346 34
 Width: 814
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 593 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-120 458.4 m 21
- 231 376.8 346.5 398.4 592.5 480 c 1
+120 458.4 m 17
+ 231 376.8 346.5 398.4 592.5 480 c 5
  571.5 352.8 511.5 0 607.5 0 c 0
  637.5 0 664.5 4.7998 694.5 33.5996 c 9
 EndSplineSet
@@ -656,6 +683,7 @@ Encoding: 35 2347 35
 Width: 757
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 580 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -673,14 +701,15 @@ Encoding: 36 2348 36
 Width: 1047
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 927 540 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-120 540 m 21
+120 540 m 17
  258 480.6 237 207.9 249 0 c 9
- 537 540 l 29
+ 537 540 l 25
  603 0 l 25
- 927 540 l 25
+ 927 540 l 29
 EndSplineSet
 EndChar
 
@@ -689,6 +718,7 @@ Encoding: 37 2431 37
 Width: 739
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 600 540 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -709,12 +739,13 @@ Encoding: 38 2349 38
 Width: 1140
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 1020 540 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 1020.62 540 m 29
  696.62 0 l 25
- 630.62 540 l 29
+ 630.62 540 l 25
  342.62 0 l 17
  359.12 205.2 407.12 540 213.62 540 c 0
  50.1201 540 107.12 224.1 335.12 375.3 c 9
@@ -726,12 +757,13 @@ Encoding: 39 2350 39
 Width: 696
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 540 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 120 480 m 1
  219 378 207 261 126 0 c 1
- 195 228 315 480 486 480 c 0
+ 195 228 315 480 486 480 c 4
  711 480 342 0 520.5 0 c 0
  576 0 546 0 576 0 c 9
 EndSplineSet
@@ -742,6 +774,7 @@ Encoding: 40 2351 40
 Width: 935
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 650 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -764,6 +797,7 @@ Encoding: 41 2352 41
 Width: 671
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 490 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -780,6 +814,7 @@ Encoding: 42 2354 42
 Width: 766
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 490 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -796,6 +831,7 @@ Encoding: 43 2357 43
 Width: 660
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 490 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -812,6 +848,7 @@ Encoding: 44 2358 44
 Width: 871
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 650 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -821,7 +858,7 @@ SplineSet
  354 0 394.8 75.9941 394 124 c 0
  392 244 244 284 166 200 c 9
 120 480 m 17
- 240 446 468 446 649.25 480 c 1
+ 240 446 468 446 649.25 480 c 5
  628.25 352.8 568.25 0 664.25 0 c 0
  694.25 0 721.25 4.7998 751.25 33.5996 c 9
 EndSplineSet
@@ -832,6 +869,7 @@ Encoding: 45 2360 45
 Width: 871
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 650 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -840,7 +878,7 @@ SplineSet
  152 22 189.347 0 231.625 0 c 0
  272.295 0 287.739 9.24707 306.625 39 c 1
 120 480 m 17
- 240 446 468 446 649.25 480 c 1
+ 240 446 468 446 649.25 480 c 5
  628.25 352.8 568.25 0 664.25 0 c 0
  694.25 0 721.25 4.7998 751.25 33.5996 c 9
 EndSplineSet
@@ -851,6 +889,7 @@ Encoding: 46 2361 46
 Width: 719
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" 560 480 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -950,6 +989,7 @@ Encoding: 53 2375 53
 Width: 0
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" -100 480 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -963,6 +1003,7 @@ Encoding: 54 2376 54
 Width: 0
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" -100 480 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -978,6 +1019,7 @@ Encoding: 55 2379 55
 Width: 0
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" -100 480 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -991,12 +1033,13 @@ Encoding: 56 2380 56
 Width: 0
 VWidth: 0
 Flags: W
+AnchorPoint: "ekaar" -100 480 mark 0
 LayerCount: 2
 Fore
 SplineSet
--303 597.79 m 21
- -285 534.79 -261 480 -150 480 c 4
- -42 480 -55.9229 613.783 -75 643.625 c 4
+-303 597.79 m 17
+ -285 534.79 -261 480 -150 480 c 0
+ -42 480 -55.9229 613.783 -75 643.625 c 0
  -164.305 783.324 -443.317 454.684 -508 682.104 c 9
 EndSplineSet
 EndChar
