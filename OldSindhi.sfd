@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1336774254
-ModificationTime: 1336812122
+ModificationTime: 1336814380
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -158,7 +158,7 @@ Encoding: 5 70325 5
 Width: 748
 VWidth: 0
 Flags: W
-AnchorPoint: "anusvara" 374 800 basechar 0
+AnchorPoint: "anusvara" 374 900 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1032,7 +1032,7 @@ Encoding: 50 70370 50
 Width: 200
 VWidth: 0
 Flags: W
-AnchorPoint: "anusvara" -100 800 basechar 0
+AnchorPoint: "anusvara" -100 900 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1052,9 +1052,9 @@ AnchorPoint: "ukaar" -250 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
--400 -60 m 17
- -370 -111.962 -313.007 -120 -250 -120 c 24
- -186.993 -120 -130 -111.962 -100 -60 c 9
+-400 -160 m 21
+ -370 -211.962 -313.007 -220 -250 -220 c 28
+ -186.993 -220 -130 -211.962 -100 -160 c 13
 EndSplineSet
 EndChar
 
@@ -1067,12 +1067,12 @@ AnchorPoint: "ukaar" -250 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
--400 -195 m 17
- -370 -246.962 -313.007 -255 -250 -255 c 24
- -186.993 -255 -130 -246.962 -100 -195 c 9
--400 -60 m 21
- -370 -111.962 -313.007 -120 -250 -120 c 28
- -186.993 -120 -130 -111.962 -100 -60 c 13
+-400 -295 m 21
+ -370 -346.962 -313.007 -355 -250 -355 c 28
+ -186.993 -355 -130 -346.962 -100 -295 c 13
+-400 -160 m 21
+ -370 -211.962 -313.007 -220 -250 -220 c 28
+ -186.993 -220 -130 -211.962 -100 -160 c 13
 EndSplineSet
 EndChar
 
@@ -1081,7 +1081,7 @@ Encoding: 53 70373 53
 Width: 0
 VWidth: 0
 Flags: W
-AnchorPoint: "anusvara" -300 800 basechar 0
+AnchorPoint: "anusvara" -300 900 basechar 0
 AnchorPoint: "ekaar" -100 480 mark 0
 LayerCount: 2
 Fore
@@ -1096,15 +1096,15 @@ Encoding: 54 70374 54
 Width: 0
 VWidth: 0
 Flags: W
-AnchorPoint: "anusvara" -300 800 basechar 0
+AnchorPoint: "anusvara" -300 900 basechar 0
 AnchorPoint: "ekaar" -100 480 mark 0
 LayerCount: 2
 Fore
 SplineSet
 -515.75 602.184 m 17
- -308.75 635.184 -244.5 622.104 -100 480 c 13
+ -308.75 635.184 -244.5 622.104 -100 480 c 9
 -481.5 733.104 m 17
- -280.5 826.104 -125.75 662.184 -100 480 c 13
+ -280.5 826.104 -125.75 662.184 -100 480 c 9
 EndSplineSet
 EndChar
 
@@ -1113,13 +1113,13 @@ Encoding: 55 70375 55
 Width: 0
 VWidth: 0
 Flags: W
-AnchorPoint: "anusvara" -300 800 basechar 0
+AnchorPoint: "anusvara" -300 900 basechar 0
 AnchorPoint: "ekaar" -100 480 mark 0
 LayerCount: 2
 Fore
 SplineSet
 -527 682.104 m 17
- -448.5 406.104 -112.5 949.104 -100 480 c 13
+ -448.5 406.104 -112.5 949.104 -100 480 c 9
 EndSplineSet
 EndChar
 
@@ -1128,7 +1128,7 @@ Encoding: 56 70376 56
 Width: 0
 VWidth: 0
 Flags: W
-AnchorPoint: "anusvara" -300 800 basechar 0
+AnchorPoint: "anusvara" -300 900 basechar 0
 AnchorPoint: "ekaar" -100 480 mark 0
 LayerCount: 2
 Fore
@@ -1150,8 +1150,8 @@ AnchorPoint: "ukaar" -250 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
--232 -103.801 m 25
- -271 -135 l 25
+-232 -203.801 m 29
+ -271 -235 l 29
 EndSplineSet
 EndChar
 
@@ -1164,9 +1164,9 @@ AnchorPoint: "ukaar" -250 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
--400 -60 m 17
- -362 -68.5 -284.057 -105.129 -234 -138.5 c 0
- -156 -190.5 -128 -218.5 -100 -255 c 9
+-400 -160 m 21
+ -362 -168.5 -284.057 -205.129 -234 -238.5 c 4
+ -156 -290.5 -128 -318.5 -100 -355 c 13
 EndSplineSet
 EndChar
 
