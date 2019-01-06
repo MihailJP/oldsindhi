@@ -1,7 +1,7 @@
 # Makefile for OldSindhi font
 
 FONTS=OldSindhi.ttf
-DOCUMENTS=license.txt README
+DOCUMENTS=License.txt License-MIT.txt License-OFL.txt README
 PKGS=OldSindhi.7z
 7ZOPT=-mx9
 
