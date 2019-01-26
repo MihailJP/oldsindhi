@@ -8,9 +8,9 @@ LibreOffice.
 
 Encoding
 --------
-The encoding of this font follows the final proposal found at:
-http://std.dkuug.dk/JTC1/SC2/WG2/docs/n3979.pdf
-with the range from U+112B0 to U+112FF.
+This is a Unicode font; this uses the Khudawadi block which locates from
+U+112B0 to U+112FF.  Khudabadi script is first included in Version 7.0 of
+Unicode.
 
 Duplicate glyphs shifted to PUA range from U+E2B0 to U+E2FF are also available
 in this font.
