@@ -2,8 +2,7 @@
 
 FONTS=OldSindhi.ttf
 DOCUMENTS=License.txt License-MIT.txt License-OFL.txt README
-PKGS=OldSindhi.7z
-7ZOPT=-mx9
+PKGS=OldSindhi.tar.xz
 
 # Path to Graphite compiler
 GRCOMPILER=/cygdrive/c/Apps/graphite/Graphite\ Compiler/GrCompiler
@@ -22,17 +21,17 @@ raw.ttf: OutlinesTT.sfd
 OldSindhi.ttf: raw.ttf OldSindhi.gdl
 	$(GRCOMPILER) $^ $@
 
-.SUFFIXES: .7z
+.SUFFIXES: .tar.xz
 .PHONY: dist
 dist: ${PKGS}
 
-OldSindhi.7z: ${FONTS} ${DOCUMENTS}
+OldSindhi.tar.xz: ${FONTS} ${DOCUMENTS}
 	-rm -rf $*
 	mkdir $*
 	cp ${FONTS} ${DOCUMENTS} $*
-	7z a ${7ZOPT} $@ $*
+	tar -cfJ $@ $*
 
 .PHONY: clean
 clean:
 	-rm Outlines.sfd OutlinesTT.sfd gdlerr.txt '$$_temp.gdl' raw.ttf ${FONTS}
-	-rm -rf ${PKGS} ${PKGS:.7z=}
+	-rm -rf ${PKGS} ${PKGS:.tar.xz=}
