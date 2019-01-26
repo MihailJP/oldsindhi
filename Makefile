@@ -5,7 +5,12 @@ DOCUMENTS=License.txt License-MIT.txt License-OFL.txt README
 PKGS=OldSindhi.tar.xz
 
 # Path to Graphite compiler
-GRCOMPILER=/cygdrive/c/Apps/graphite/Graphite\ Compiler/GrCompiler
+
+# On Windows (Cygwin) uncomment:
+#GRCOMPILER=/cygdrive/c/Program\ Files/Graphite\ Compiler/GrCompiler
+# For systems other than Windows:
+GRCOMPILER=wine ~/.wine/drive_c/Program\ Files/Graphite\ Compiler/GrCompiler.exe
+
 
 .PHONY: all
 all: ${FONTS}
@@ -29,7 +34,7 @@ OldSindhi.tar.xz: ${FONTS} ${DOCUMENTS}
 	-rm -rf $*
 	mkdir $*
 	cp ${FONTS} ${DOCUMENTS} $*
-	tar -cfJ $@ $*
+	tar -cJf $@ $*
 
 .PHONY: clean
 clean:
