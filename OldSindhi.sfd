@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1336774254
-ModificationTime: 1548497802
+ModificationTime: 1548502754
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -37,8 +37,8 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
-Lookup: 260 0 0 "Above-base Marks" { "Above-base Marks-1"  } []
-Lookup: 260 0 0 "Below-base Marks" { "Below-base Marks-1"  } []
+Lookup: 260 0 0 "Above-base Marks" { "Above-base Marks-1"  } ['abvm' ('sind' <'SND ' 'dflt' > ) ]
+Lookup: 260 0 0 "Below-base Marks" { "Below-base Marks-1"  } ['blwm' ('sind' <'SND ' 'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "This is free Sindhi Khudabadi font. Graphite support is required for correct rendering." "" "" "Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of this font, to use, copy, merge, embed, modify, redistribute,+AAoA-and/or sell copies of this font, under the terms of either:+AAoACgAA-a) the MIT License (see License-MIT.txt), or+AAoACgAA-b) the SIL Open Font License (see License-OFL.txt) with no Reserved Font+AAoA   Name.+AAoACgAA-THIS FONT IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR+AAoA-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE+AAoA-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER+AAoA-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,+AAoA-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE+AAoA-SOFTWARE.+AAoACgAA"
@@ -65,6 +65,7 @@ Grid
  2000 600 l 1024
   Named: "topbase"
 EndSplineSet
+TeXData: 1 0 0 419430 209715 139810 0 1048576 139810 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "anusvara" "Above-base Marks-1" "ukaar" "Below-base Marks-1" "ekaar" "Above-base Marks-1"
 BeginChars: 141 141
 
