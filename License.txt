@@ -1,4 +1,4 @@
-Copyright (c) 2012, MihailJP.
+Copyright (c) 2019, MihailJP.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this font, to use, copy, merge, embed, modify, redistribute,
