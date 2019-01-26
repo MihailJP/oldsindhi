@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1336774254
-ModificationTime: 1548502754
+ModificationTime: 1548506652
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -67,7 +67,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 419430 209715 139810 0 1048576 139810 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "anusvara" "Above-base Marks-1" "ukaar" "Below-base Marks-1" "ekaar" "Above-base Marks-1"
-BeginChars: 141 141
+BeginChars: 143 143
 
 StartChar: akAra
 Encoding: 0 70320 0
@@ -2053,6 +2053,34 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 68 70393 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: daNDa
+Encoding: 141 2404 141
+Width: 400
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+200 480 m 25
+ 200 0 l 1049
+EndSplineSet
+EndChar
+
+StartChar: dvidaNDa
+Encoding: 142 2405 142
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+400 480 m 25
+ 400 0 l 1053
+200 480 m 25
+ 200 0 l 1049
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
