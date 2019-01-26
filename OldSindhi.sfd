@@ -36,11 +36,11 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
-Lookup: 260 0 0 "Above-base Marks"  {"Above-base Marks-1"  } []
-Lookup: 260 0 0 "Below-base Marks"  {"Below-base Marks-1"  } []
+Lookup: 260 0 0 "Above-base Marks" { "Above-base Marks-1"  } []
+Lookup: 260 0 0 "Below-base Marks" { "Below-base Marks-1"  } []
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "" "" "" "" "" "" "" "This is free Sindhi Khudabadi font. Graphite support is required for correct rendering." "" "" "Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:+AAoA* Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.+AAoA* Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.+AAoACgAA-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS +ACIA-AS IS+ACIA AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL MIHAILJP BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.+AAoA" 
+LangName: 1033 "" "" "" "" "" "" "" "" "" "" "This is free Sindhi Khudabadi font. Graphite support is required for correct rendering." "" "" "Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of this font, to use, copy, merge, embed, modify, redistribute,+AAoA-and/or sell copies of this font, under the terms of either:+AAoACgAA-a) the MIT License (see License-MIT.txt), or+AAoACgAA-b) the SIL Open Font License (see License-OFL.txt) with no Reserved Font+AAoA   Name.+AAoACgAA-THIS FONT IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR+AAoA-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE+AAoA-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER+AAoA-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,+AAoA-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE+AAoA-SOFTWARE.+AAoACgAA"
 Encoding: Original
 UnicodeInterp: none
 NameList: Adobe Glyph List
